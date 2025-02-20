@@ -103,14 +103,14 @@ const Header = () => {
           </button>
           <nav className="mt-16 flex flex-col items-center gap-4 font-kanit">
             {navLinks.map((item) => (
-              <a
-                href={item.path}
+              <Link
+                to={item.path}
                 key={item.name}
                 className="text-base font-medium text-white"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
                 {item.name}
-              </a>
+              </Link>
             ))}
             <button
               className="bg-yellow-500 px-4 py-2 rounded-md text-white mt-4"

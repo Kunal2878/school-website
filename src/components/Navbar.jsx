@@ -39,7 +39,7 @@ const Header = () => {
       <div className="w-full bg-yellow-400 overflow-hidden">
         <div className="whitespace-nowrap">
           <p className="animate-marquee text-white font-medium text-sm py-2 inline-block">
-            Notice: AstraGrove School will be closed for winter break from 10th
+            Notice: KATLICHERRA CENTRAL SCHOOL will be closed for winter break from 10th
             December, 2024 to 24th December 2024.
           </p>
         </div>
