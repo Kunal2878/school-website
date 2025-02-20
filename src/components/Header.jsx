@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import school_logo from "../assets/gallary/school_logo.jpg";
+import school_logo from "../assets/gallary/school_logo.png";
 import { FiMenu, FiX } from "react-icons/fi";
 import { Link } from "react-router-dom";
 import { getAllNotice } from "../services/api";
@@ -78,9 +78,6 @@ const Header = () => {
                 {item.name}
               </Link>
             ))}
-            <button className="bg-yellow-500 px-4 py-2 rounded-md text-white">
-              <Link to="/login">Dashboard</Link>
-            </button>
           </nav>
 
           {/* Mobile Menu Button */}
@@ -129,7 +126,11 @@ const Header = () => {
       <div className="w-full bg-[#FFB400] overflow-hidden">
         <div className="whitespace-nowrap">
           <p className="animate-marquee text-white font-medium text-[20px] py-2 inline-block">
-            Welcome to katlichara
+            Welcome to KATLICHERRA CENTRAL SCHOOL, excellence in education
+            since 2023. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            {notices.map((notice, index) => (
+              <span key={index}> {notice.message} </span>
+            ))}
           </p>
         </div>
       </div>

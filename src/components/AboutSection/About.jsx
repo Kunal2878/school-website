@@ -6,8 +6,8 @@ export function About() {
         About Us
       </h1>
       <p className="text-lg md:text-xl lg:text-2xl md:mx-12 md:mt-6 font-normal">
-        Founded in 2023, KATLICHERRA CENTRAL School was established with a vision to
-        transform education. Nestled in the heart of Maharastra, AstraGrove
+        Founded in 2023, KATLICHERRA CENTRAL SCHOOL was established with a vision to
+        transform education. Nestled in the heart of Assam, It
         combines a passion for academic rigor with a commitment to the holistic
         development of every student. Our experienced faculty and dedicated
         staff create a nurturing and inclusive environment, ensuring every child

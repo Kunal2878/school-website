@@ -1,7 +1,7 @@
 import React from "react";
 import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 
-import school_logo from "../assets/gallary/school_logo.jpg";
+import school_logo from "../assets/gallary/school_logo.png";
 
 const Footer = () => {
   return (

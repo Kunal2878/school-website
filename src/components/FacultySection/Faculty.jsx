@@ -16,7 +16,6 @@ export function Faculty() {
         next generation of leaders.
       </p>
 
-      <BlogsData />
     </div>
   );
 }
