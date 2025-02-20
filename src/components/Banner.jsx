@@ -11,8 +11,8 @@ const Banner = () => {
         <section className="relative z-10 h-full flex items-center justify-center sm:px-16 px-6 sm:py-16 py-10">
           <div className="text-center text-[#002855]">
             <h1 className="font-bold leading-[44px] md:leading-[97.15px] text-[40px] md:text-[65px]">
-              Welcome to <span className="text-[#FFB400]">AstraGrove</span>{" "}
-              School.
+              Welcome to <span className="text-[#FFB400]">KATLICHERRA CENTRAL SCHOOL</span>{" "}
+            
             </h1>
             <p className="font-bold text-[20px] md:text-[40px] text-black">
               Nurturing Bright Minds for a Brighter Tomorrow

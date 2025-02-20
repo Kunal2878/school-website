@@ -16,7 +16,7 @@ const Footer = () => {
               alt="AstraGrove Logo"
               className="w-8 h-8 mr-2"
             />
-            AstraGrove
+            KATLICHERRA CENTRAL SCHOOL
           </h1>
         </div>
 
@@ -56,15 +56,14 @@ const Footer = () => {
         <div>
           <h2 className="text-lg font-semibold mb-4">Contact</h2>
           <p className="mb-2">
-            <span className="font-bold">Phone:</span> +91 12345 69878
-          </p>
+            <span className="font-bold">Phone:</span>+91 9707236371          </p>
           <p>
             <span className="font-bold">Email:</span>{" "}
             <a
               href="mailto:astragroveinfo@gmail.com"
               className="hover:text-yellow-300"
             >
-              astragroveinfo@gmail.com
+              katlicherracentralschool@gmail.com
             </a>
           </p>
         </div>

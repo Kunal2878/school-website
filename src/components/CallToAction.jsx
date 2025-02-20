@@ -13,7 +13,7 @@ const CallToAction = () => {
       {/* Content */}
       <div className="z-10 text-[#002855]">
         <h1 className="text-[40px] md:text-[70px] font-bold mb-4">
-          JOIN ASTRAGROVE
+          JOIN KATLICHERRA CENTRAL SCHOOL
         </h1>
         <p className="text-[20px] md:text-[30px] font-medium mb-6">
           Learn about how to apply and begin your child&apos;s educational

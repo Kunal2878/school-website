@@ -36,7 +36,7 @@ const ReviewsSection = () => (
           borderColor="#FFB40080"
           cornerColor1="#FFB40080"
           cornerColor2="#FFB40080"
-          text="AstraGrove School has been a wonderful choice for our child’s education. The teachers are not only highly knowledgeable but genuinely care about each student’s growth."
+          text="KATLICHERRA CENTRAL SCHOOL has been a wonderful choice for our child’s education. The teachers are not only highly knowledgeable but genuinely care about each student’s growth."
           parentName="Mr and Mrs Sharma"
         />
       </SwiperSlide>
@@ -47,7 +47,7 @@ const ReviewsSection = () => (
           borderColor="#FF000080"
           cornerColor1="#FF000080"
           cornerColor2="#FF000080"
-          text="The dedication of the staff at AstraGrove is unmatched. They create a nurturing and positive environment where children feel valued and motivated to learn."
+          text="The dedication of the staff at KATLICHERRA CENTRAL SCHOOL is unmatched. They create a nurturing and positive environment where children feel valued and motivated to learn."
           parentName="Mrs Singh"
         />
       </SwiperSlide>
@@ -58,7 +58,7 @@ const ReviewsSection = () => (
           borderColor="#FFB40080"
           cornerColor1="#FFB40080"
           cornerColor2="#FFB40080"
-          text="AstraGrove School combines strong academics with a genuine focus on each child’s strengths. Our son enjoys learning and has developed a passion for science."
+          text="KATLICHERRA CENTRAL SCHOOL  combines strong academics with a genuine focus on each child’s strengths. Our son enjoys learning and has developed a passion for science."
           parentName="Mr and Mrs Verma"
         />
       </SwiperSlide>
