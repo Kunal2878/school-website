@@ -1,7 +1,7 @@
 import React from "react";
 import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 
-import school_logo from "../FooterSection/logoo.png";
+import school_logo from "../assets/gallary/school_logo.jpg";
 
 const Footer = () => {
   return (
@@ -13,7 +13,7 @@ const Footer = () => {
           <h1 className="text-2xl font-bold flex items-center">
             <img
               src={school_logo}
-              alt="AstraGrove Logo"
+              alt="KATLICHERRA CENTRAL SCHOOL Logo"
               className="w-8 h-8 mr-2"
             />
             KATLICHERRA CENTRAL SCHOOL
@@ -56,11 +56,11 @@ const Footer = () => {
         <div>
           <h2 className="text-lg font-semibold mb-4">Contact</h2>
           <p className="mb-2">
-            <span className="font-bold">Phone:</span>+91 9707236371          </p>
+            <span className="font-bold">Phone:</span>+91 9707236371</p>
           <p>
             <span className="font-bold">Email:</span>{" "}
             <a
-              href="mailto:astragroveinfo@gmail.com"
+              href="mailto: katlicherracentralschool@gmail.com"
               className="hover:text-yellow-300"
             >
               katlicherracentralschool@gmail.com

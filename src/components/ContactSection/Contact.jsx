@@ -9,7 +9,7 @@ export function Contact() {
       <div className="flex justify-center">
         <div id="contact" className="mt-24 mx-6 lg:mx-8 mb-16">
           <h1 className="text-[25px] md:text-[30px] lg:text-[35px] md:font-semibold font-medium text-center">
-            Get in Touch with AstraGrove School
+            Get in Touch with KATLICHERRA CENTRAL SCHOOL
           </h1>
           <p className="max-w-[1180px] text-center text-[17px] md:text-[20px] lg:text-[25px] mx-2 md:mx-8 font-normal">
             We’re here to help! If you have questions about our programs,

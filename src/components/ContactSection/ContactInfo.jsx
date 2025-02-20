@@ -5,7 +5,7 @@ export function ContactInfo() {
     <div>
       <div className="text-[17px] md:text-[20px] lg:text-[25px]">
         <p>Address: </p>
-        <p>AstraGrove School</p>
+        <p>KATLICHERRA CENTRAL SCHOOL</p>
         <p>329, Sterling Center Camp, </p>
         <p>Pune, Maharashtra 411001, India</p>
       </div>
