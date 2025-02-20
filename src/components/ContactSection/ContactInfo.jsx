@@ -11,7 +11,7 @@ export function ContactInfo() {
       </div>
       <div className="mt-4 text-[17px] md:text-[20px] lg:text-[25px]">
         <p>Email</p>
-        <p>astragroveinfo@gmail.com</p>
+        <p>katlicherracentralschool@gmail.com</p>
       </div>
       <div className="mt-4 text-[17px] md:text-[20px] lg:text-[25px]">
         <p>Phone Number</p>
