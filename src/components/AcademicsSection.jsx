@@ -41,13 +41,13 @@ const AcademicsSection = () => {
       <div className=" sm:m-14 m-4 pt-[72px] pb-12 md:pb-0">
         <div className="text-center sm:mb-14">
           <h1 className="text-[25px] md:text-[35px] font-bold text-black md:mx-auto pb-4 md:p-0">
-            Academics at <span className="text-[#FFB400]">AstraGroove </span>
-            School
+            Academics at <span className="text-[#FFB400]">KATLICHERRA CENTRAL SCHOOL </span>
+            
           </h1>
 
           {/* <p className="text-[17px] sm:[30px]  sm:text-black-600 font-semibold mt-4 max-w-6xl mx-auto"> */}
           <p className="text-[17px] h-52  lg:text-[25px] font-[400] text-black-600 md:mt-4 lg:max-w-6xl lg:mx-auto">
-            At AstraGrove School, we are committed to delivering an engaging and
+            At KATLICHERRA CENTRAL SCHOOL, we are committed to delivering an engaging and
             well-rounded academic experience that equips students with the
             knowledge, skills, and confidence to excel. Our curriculum blends
             traditional academic rigor with innovative approaches, fostering
@@ -355,7 +355,7 @@ const AcademicsSection = () => {
               Learning Environment
             </h2>
             <p className="w-auto text-black-700 text-[17px] md:text-[25px]  font-[400] p-4 sm:pt-4 sm:pl-16 sm:pr-4 sm:pb-4 ">
-              AstraGroove embraces a student-centered approach that adapts to
+              KATLICHERRA CENTRAL SCHOOL embraces a student-centered approach that adapts to
               different learning styles. Our modern classrooms and facilities
               are equipped with the latest technology to enhance interactive
               learning. Small class sizes allow for personalized attention and
@@ -384,7 +384,7 @@ const AcademicsSection = () => {
             Student Facilities
           </h2>
           <p className="text-black mb-6 text-[17px] lg:text-[25px] font-[400]">
-            AstraGrove School provides state-of-the-art facilities designed to
+            KATLICHERRA CENTRAL SCHOOL provides state-of-the-art facilities designed to
             support students’ academic and personal growth
           </p>
           {/* --------------------small----- */}
@@ -518,10 +518,10 @@ const AcademicsSection = () => {
       <div className="lg:pt-14 lg:pb-10">
         <div className="text-center m-8 xl:m-14">
           <h1 className="text-[25px] lg:text-[30px] font-[500] text-black mx-auto">
-            Why Choose AstraGrove for Your Child’s Academic Journey?
+            Why Choose KATLICHERRA CENTRAL SCHOOL for Your Child’s Academic Journey?
           </h1>
           <p className="text-[17px] lg:text-[25px] font-[400] text-black-600 mt-4 lg:max-w-6xl mx-auto">
-            At AstraGrove School, we provide a nurturing environment and
+            At KATLICHERRA CENTRAL SCHOOL, we provide a nurturing environment and
             comprehensive facilities that empower students to excel both
             academically and personally. Our holistic approach prepares students
             to navigate life’s challenges with confidence, compassion, and

@@ -6,8 +6,8 @@ export function ContactInfo() {
       <div className="text-[17px] md:text-[20px] lg:text-[25px]">
         <p>Address: </p>
         <p>KATLICHERRA CENTRAL SCHOOL</p>
-        <p>329, Sterling Center Camp, </p>
-        <p>Pune, Maharashtra 411001, India</p>
+        <p>College road, Katlicherra, 788161 </p>
+        
       </div>
       <div className="mt-4 text-[17px] md:text-[20px] lg:text-[25px]">
         <p>Email</p>
@@ -15,7 +15,7 @@ export function ContactInfo() {
       </div>
       <div className="mt-4 text-[17px] md:text-[20px] lg:text-[25px]">
         <p>Phone Number</p>
-        <p>+91 12345 69874</p>
+        <p>+91 9707236371</p>
       </div>
       <div className="mt-6 text-[17px] md:text-[20px] lg:text-[25px]">
         <button className="border-[1px] px-3 py-1 flex items-center justify-center rounded-lg">

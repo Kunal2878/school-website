@@ -1,32 +1,39 @@
 import { useState, useRef } from "react";
-import Gallaryimage1 from "../GallarySection/image1.png";
-import Gallaryimage2 from "../GallarySection/image2.png";
-import Gallaryimage3 from "../GallarySection/image3.png";
-import Gallaryimage4 from "../GallarySection/image4.png";
-import Gallaryimage5 from "../GallarySection/image5.png";
-import Gallaryimage6 from "../GallarySection/image6.png";
-import Gallaryimage7 from "../GallarySection/image7.png";
-import Gallaryimage8 from "../GallarySection/image8.png";
-import Gallaryimage9 from "../GallarySection/image9.png";
-import Gallaryimage10 from "../GallarySection/image10.png";
-import Gallaryimage11 from "../GallarySection/image11.png";
-import Gallaryimage12 from "../GallarySection/image12.png";
+import g_1 from "../../assets/gallary/g_1.jpg";
+import g_2 from "../../assets/gallary/g_2.jpg";
+import g_3 from "../../assets/gallary/g_3.jpg";
+import g_4 from "../../assets/gallary/g_4.jpg";
+import g_5 from "../../assets/gallary/g_5.jpg";
+import g_6 from "../../assets/gallary/g_6.jpg";
+import g_7 from "../../assets/gallary/g_7.jpg";
+import g_8 from "../../assets/gallary/g_8.jpg";
+import g_9 from "../../assets/gallary/g_9.jpg";
+import g_10 from "../../assets/gallary/g_10.jpg";
+import g_11 from "../../assets/gallary/g_11.jpg";
+import g_12 from "../../assets/gallary/g_12.jpg";
+import g_13 from "../../assets/gallary/g_13.jpg";
+import g_14 from "../../assets/gallary/g_14.jpg";
+import g_15 from "../../assets/gallary/g_15.jpg";
+import g_16 from "../../assets/gallary/g_16.jpg";
+import g_17 from "../../assets/gallary/g_17.jpg";
+import g_18 from "../../assets/gallary/g_18.jpg";
+import g_19 from "../../assets/gallary/g_19.jpg";
+import g_20 from "../../assets/gallary/g_20.jpg";
+import g_21 from "../../assets/gallary/g_21.jpg";
+import g_22 from "../../assets/gallary/g_22.jpg";
+import g_23 from "../../assets/gallary/g_23.jpg";
+import g_24 from "../../assets/gallary/g_24.jpg";
+import g_25 from "../../assets/gallary/g_25.jpg";
+import g_26 from "../../assets/gallary/g_26.jpg";
+import g_27 from "../../assets/gallary/g_27.jpg";
+import g_28 from "../../assets/gallary/g_28.jpg";
 import { GallaryClose } from "../GallarySection/GallaryClose"; // Import the GallaryClose component
 import CallToAction from "../CallToAction";
 
 const images = [
-  Gallaryimage1,
-  Gallaryimage2,
-  Gallaryimage3,
-  Gallaryimage4,
-  Gallaryimage5,
-  Gallaryimage6,
-  Gallaryimage7,
-  Gallaryimage8,
-  Gallaryimage9,
-  Gallaryimage10,
-  Gallaryimage11,
-  Gallaryimage12,
+  g_1, g_2, g_3, g_4, g_5, g_6, g_7, g_8, g_9, g_10,
+  g_11, g_12, g_13, g_14, g_15, g_16, g_17, g_18, g_19, g_20,
+  g_21, g_22, g_23, g_24, g_25,g_26,g_27,g_28
 ];
 
 export default function Gallary() {
