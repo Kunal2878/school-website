@@ -11,10 +11,10 @@ const Footer = () => {
       <div className="container mx-auto px-4 md:px-10 grid grid-cols-1 md:grid-cols-4 gap-6">
         {/* Logo Section */}
         <div>
-          <h1 className="text-2xl font-bold flex items-center">
+          <h1 className="text-xl md:text-2xlfont-bold flex items-center">
             <img
               src={school_logo}
-              alt="AstraGrove Logo"
+              alt="Katlicherra Logo"
               className="w-8 h-8 mr-2"
             />
             KATLICHERRA CENTRAL SCHOOL
