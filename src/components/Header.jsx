@@ -116,7 +116,7 @@ const Header = () => {
               className="bg-yellow-500 px-4 py-2 rounded-md text-white mt-4"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              Admission
+             <Link to='/joinus'></Link> 
             </button>
           </nav>
         </div>
